@@ -1,0 +1,65 @@
+{
+  "files": {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 38f9e67 (changes)
+    "main.css": "/static/css/main.6f16ab1a.chunk.css",
+    "main.js": "/static/js/main.a37eda49.chunk.js",
+    "main.js.map": "/static/js/main.a37eda49.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.199eca4e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.199eca4e.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.c66c60d0.chunk.js": "/static/js/2.c66c60d0.chunk.js",
+    "static/js/2.c66c60d0.chunk.js.map": "/static/js/2.c66c60d0.chunk.js.map",
+    "static/js/3.10958c9e.chunk.js": "/static/js/3.10958c9e.chunk.js",
+    "static/js/3.10958c9e.chunk.js.map": "/static/js/3.10958c9e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.6f16ab1a.chunk.css.map": "/static/css/main.6f16ab1a.chunk.css.map",
+    "static/js/2.c66c60d0.chunk.js.LICENSE.txt": "/static/js/2.c66c60d0.chunk.js.LICENSE.txt",
+<<<<<<< HEAD
+=======
+=======
+    "main.css": "/static/css/main.7ee68b1e.chunk.css",
+    "main.js": "/static/js/main.827a254a.chunk.js",
+    "main.js.map": "/static/js/main.827a254a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0866d3b1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0866d3b1.js.map",
+    "static/css/2.108bfca2.chunk.css": "/static/css/2.108bfca2.chunk.css",
+    "static/js/2.96ef8756.chunk.js": "/static/js/2.96ef8756.chunk.js",
+    "static/js/2.96ef8756.chunk.js.map": "/static/js/2.96ef8756.chunk.js.map",
+    "static/js/3.737a7e33.chunk.js": "/static/js/3.737a7e33.chunk.js",
+    "static/js/3.737a7e33.chunk.js.map": "/static/js/3.737a7e33.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.108bfca2.chunk.css.map": "/static/css/2.108bfca2.chunk.css.map",
+    "static/css/main.7ee68b1e.chunk.css.map": "/static/css/main.7ee68b1e.chunk.css.map",
+    "static/js/2.96ef8756.chunk.js.LICENSE.txt": "/static/js/2.96ef8756.chunk.js.LICENSE.txt",
+>>>>>>> 3f7f1f7 (changes)
+>>>>>>> 38f9e67 (changes)
+    "static/media/Gallery.css": "/static/media/4.9792b913.jpg",
+    "static/media/Login.css": "/static/media/image.ac2f0721.jpg",
+    "static/media/signup.css": "/static/media/wp2915668-dark-nature-wallpapers.7d58d40d.jpg"
+  },
+  "entrypoints": [
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 38f9e67 (changes)
+    "static/js/runtime-main.199eca4e.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.c66c60d0.chunk.js",
+    "static/css/main.6f16ab1a.chunk.css",
+    "static/js/main.a37eda49.chunk.js"
+<<<<<<< HEAD
+=======
+=======
+    "static/js/runtime-main.0866d3b1.js",
+    "static/css/2.108bfca2.chunk.css",
+    "static/js/2.96ef8756.chunk.js",
+    "static/css/main.7ee68b1e.chunk.css",
+    "static/js/main.827a254a.chunk.js"
+>>>>>>> 3f7f1f7 (changes)
+>>>>>>> 38f9e67 (changes)
+  ]
+}
